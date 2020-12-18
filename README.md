@@ -4,4 +4,4 @@ This file focuses on the goal and pledged money in successful and failed campaig
 Attached are graphs and charts to represent the data in the analysis. 
 ![Outcomes_based_on_launch_date](Desktop/Analysis_Projects/Crowdfunding_Analysis/Outcomes_based_on_launch_date_line_graph.png)
 ![Outcomes_based_on_parent_category](Drive/Desktop/Analysis_Projects/Crowdfunding_Analysis/Parent_Category_Outcomes.png.png)
-![Goal_vs_Pledged_comparison](Desktop/Analysis_Projects/Crowdfunding_Analysis/goal_vs_pledged.png)
+![Goal_vs_Pledged_chart](https://github.com/shireenkahlon/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
