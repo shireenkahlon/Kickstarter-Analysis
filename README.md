@@ -3,12 +3,12 @@
 ## Overview of Project
 
 ### Purpose
-  This project came together as a means to deliver information to Louise and her staff as to the outcome of other theater/play campaigns in regards to their launch date and fundraising goals. There are two objectives to the project. Firstly, to look at whether campaigns were successful or not based on their launch date. Secondly, to examine the outcome of campaigns based on fundraising goals set by the campaign. The results, as well as the data collected and visualizations from the project will be sent to Louise and her campaign staff.
+    This project came together as a means to deliver information to Louise and her staff as to the outcome of other theater/play campaigns in regards to their launch date and fundraising goals. There are two objectives to the project. Firstly, to look at whether campaigns were successful or not based on their launch date. Secondly, to examine the outcome of campaigns based on fundraising goals set by the campaign. The results, as well as the data collected and visualizations from the project will be sent to Louise and her campaign staff.
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-  The analysis of the data began by examining the outcomes of campaigns compared with the month they began with. I started by creating a pivot table to quickly summarize the data and show me an overview of the data. Then, I filtered the data to solely look at theater campaigns. Subsequently, I added both the campaign outcomes and launch month. 
+    The analysis of the data began by examining the outcomes of campaigns compared with the month they began with. I started by creating a pivot table to quickly summarize the data and show me an overview of the data. Then, I filtered the data to solely look at theater campaigns. Subsequently, I added both the campaign outcomes and launch month. 
   This pivot table informs how many successful, failed, or cancelled theater campaigns were launched in a categorical month. In addition, I created a line chart, shown below, to visualize the data over the twelve months. Through this, I was able to see any trends or peaks of data within the successful or failed campaigns.
 ![Outcomes_Based_on_Launch_Date](https://github.com/shireenkahlon/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
   In this data, there are three significant trends that can signify a correlation. First, as seen in the graph, there is a trend of theater campaigns being successful when launching between April and May. Second, there is a sizable trend in failed campaigns between September and October. Finally, there is a downfall in successful campaigns between October and December. Analyzing these trends is significant to gaining a full picture of the data.
